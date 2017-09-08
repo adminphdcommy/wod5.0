@@ -1,0 +1,203 @@
+html *{
+   
+   padding:0;
+   font-family: Arial ;
+   margin : 0;
+}
+
+
+.topnav {
+	background:#31424A;
+	z-index: 1000;
+	position: fixed;
+	width:100%;
+	top: 0;
+	height:75px;
+	border-bottom:2px solid red;
+	color:red;
+	vertical-align:middle
+}
+
+.topnav .title{
+	float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 26px 5px;
+    text-decoration: none;
+    font-size: 18px;
+	font-weight:bold;
+	Margin:0px 0px 0px;
+}
+.topnav a {
+    
+    
+    color: #ffffff;
+    text-align: right;
+    padding: 26px 5px;
+    text-decoration: none;
+    font-size: 18px;
+	font-weight:bold;
+	Margin:0px 5px ;
+	
+}
+
+.topnav a:hover {
+    
+    
+    color: orange;
+	
+}
+.footer {
+	background:#FA360F;
+	color:red;
+	vertical-align:middle;
+	margin:0 auto;
+	position: relative;
+	width:100%;
+	bottom: 0;
+	height:75px;
+}
+.center{
+	margin: 0 auto;
+}
+.left{
+	margin-left: 0
+}
+
+.text-center {
+	text-align:center;
+}
+
+.text-right {
+	text-align:right;
+}
+
+.text-bottom {
+	vertical-align:bottom;
+}
+
+.text-middle {
+	vertical-align:middle;
+	
+}
+
+.register{
+	float:right;
+}
+
+.img1 {
+	width:100%;
+}
+
+.bgtop{
+height:550px;
+background-image:url(jpg/showcase.jpg);
+background-position: center;
+background-size:100%;
+position:relative;
+background-repeat:no-repeat;
+}
+
+.bgtop-other{
+height:77px;
+position:relative;
+}
+
+
+.container1{
+	height:75px;
+	width:80%;
+	margin:0 auto;
+	padding:25px 0;
+}
+
+.title1{
+	color:red;
+	font-size: 18px;
+	font-weight:bold;
+}
+
+.title2{
+	color:white;
+	font-weight:bold;
+}
+
+.topmenu{
+	float:right;
+}
+
+.bgtop-text{
+	width:100%;
+	margin:0 auto; 
+	height:550px; 
+	top:40%;
+	position: absolute;
+	text-align: center;
+}
+
+
+.container2{
+	height:70px;
+	background-color:#31424A;
+	position:absolute;
+	bottom: 0;
+	width:100%;
+}
+
+.container2-inner{
+	height:70px;
+	width:80%;
+	margin:0 auto;
+	padding:25px 0;
+	font-weight:bold;
+	color:white;
+}
+
+.text-box {
+	border:0;
+	padding:7px;
+	margin:0 5px;
+	width:200px;
+}
+
+.btn1{
+	border:0;
+	padding:7px 10px;
+	background-color:#FA360F;
+	margin:0 5px;
+	color:white;
+}
+
+.column-1{
+	padding:20px;
+	margin:10px
+}
+
+.img2{
+	width:25%;
+	padding:10px;
+	margin:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
